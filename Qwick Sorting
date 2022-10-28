@@ -20,6 +20,8 @@ public class Main
     
     
     
+    
+    
     static int QwickSelect(int[] arr,int low,int high,int k){
        
             int index=Qwick(arr,low,high);
