@@ -5,6 +5,8 @@ public class Main
         int pivot=arr[high];
 
         int pindex=low;
+	
+	
         for(int i=low;i<high;i++){
             if(arr[i]<=pivot){
                 int t=arr[i];
